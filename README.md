@@ -11,7 +11,7 @@ Blind SQL, inyección SQL, Cross-Site Request Forgery, Cross-Site Scripting, etc
 Para ejecutar la ayuda es mediante el siguiente comando el cual nos mostrará los valores que recibe.
 
 ```
-python3 av-scan.py -h
+python3 ""av-scan.py -h
 ```
 
 <div align="center"><img src="Media/av-scan-ayuda.jpg"></div>
