@@ -20,3 +20,6 @@ python3 av-scan.py -h
 - av-reporter
 - Dockerfile
 - OpenVas
+
+Opción “- - target” o “-t” es para indicarle la URL objetivo que se quiera escanear, puede recibir una o más URL’s. Estás pueden ser indicadas en un archivo
+con extensión “.txt” o las URL’s separadas por una coma. Está opción requiere como mínimo una URL.
